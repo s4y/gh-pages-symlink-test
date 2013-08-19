@@ -2,7 +2,7 @@
 
 #### QUESTION:
 
-Do symlinks work with GitHub pages?
+Do symbolic links work with [GitHub Pages](http://pages.github.com/)?
 
 #### ANSWER:
 
