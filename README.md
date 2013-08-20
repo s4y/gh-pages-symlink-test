@@ -1,4 +1,4 @@
-# GitHub `gh-pages` symlink test
+# GitHub Pages symlink test
 
 #### QUESTION:
 
@@ -8,7 +8,7 @@ Do symbolic links work with [GitHub Pages](http://pages.github.com/)?
 
 If this:
 
-<http://sidnicious.github.io/gh-pages-symlink-test/target.txt>
+<http://sidnicious.github.io/gh-pages-symlink-test/link.txt>
 
 ... is an exact copy of this:
 
