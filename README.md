@@ -16,18 +16,18 @@ The key is to place a empty file `.nojekyll` in root folder of `gh-pages`.
 
 1. This:
 
-<http://sidnicious.github.io/gh-pages-symlink-test/link.txt>
+<http://s4y.github.io/gh-pages-symlink-test/link.txt>
 
 ... is an exact copy of this:
 
-<http://sidnicious.github.io/gh-pages-symlink-test/target.txt>
+<http://s4y.github.io/gh-pages-symlink-test/target.txt>
 
 2. This
 
-<http://sidnicious.github.io/gh-pages-symlink-test/docs/current/>
+<http://s4y.github.io/gh-pages-symlink-test/docs/current/>
 
 ... goes to:
 
-<http://sidnicious.github.io/gh-pages-symlink-test/docs/hello/>
+<http://s4y.github.io/gh-pages-symlink-test/docs/hello/>
 
-[Any questions](https://github.com/Sidnicious/gh-pages-symlink-test/issues)?
+[Any questions](https://github.com/s4y/gh-pages-symlink-test/issues)?
