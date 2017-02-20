@@ -1,33 +1,10 @@
 # GitHub Pages symlink test
 
-#### QUESTION:
+Symbolic links work with [GitHub Pages](http://pages.github.com/)!
 
-Do symbolic links work with [GitHub Pages](http://pages.github.com/)?
+## Test
 
-#### ANSWER:
+1. Symlink to a file: [this](http://s4y.github.io/gh-pages-symlink-test/link.txt) should show the same content as [this](http://s4y.github.io/gh-pages-symlink-test/target.txt).
+2. Symlink to a directory: [this](http://s4y.github.io/gh-pages-symlink-test/docs/current/) should show the same content as [this](http://s4y.github.io/gh-pages-symlink-test/docs/hello/).
 
-YES! but only in non-jekyll mode.
-
-The key is to place a empty file `.nojekyll` in root folder of `gh-pages`.
-
-(That will disable the jekyll support of your github pages site.)
-
-#### TEST
-
-1. This:
-
-<http://s4y.github.io/gh-pages-symlink-test/link.txt>
-
-... is an exact copy of this:
-
-<http://s4y.github.io/gh-pages-symlink-test/target.txt>
-
-2. This
-
-<http://s4y.github.io/gh-pages-symlink-test/docs/current/>
-
-... goes to:
-
-<http://s4y.github.io/gh-pages-symlink-test/docs/hello/>
-
-[Any questions](https://github.com/s4y/gh-pages-symlink-test/issues)?
+[Questions?](https://github.com/s4y/gh-pages-symlink-test/issues)
